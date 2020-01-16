@@ -4,7 +4,6 @@
 ----
 
 ![readme](https://user-images.githubusercontent.com/36028424/40330477-9df2c2e0-5d7f-11e8-8ac8-511d719a5eae.png)
-[![latest release](https://img.shields.io/github/release/Narehood/hosts.svg)](https://github.com/Narehood/hosts/releases)
 [![license](https://img.shields.io/github/license/Narehood/hosts.svg)](https://github.com/Narehood/hosts/blob/master/license.txt)
 [![repo size](https://img.shields.io/github/repo-size/Narehood/hosts.svg)](https://github.com/Narehood/hosts)
 [![contributors](https://img.shields.io/github/contributors/Narehood/hosts.svg)](https://github.com/Narehood/hosts/graphs/contributors)
