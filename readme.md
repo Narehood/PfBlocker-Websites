@@ -4,15 +4,15 @@
 ----
 
 ![readme](https://user-images.githubusercontent.com/36028424/40330477-9df2c2e0-5d7f-11e8-8ac8-511d719a5eae.png)
-[![latest release](https://img.shields.io/github/release/StevenBlack/hosts.svg)](https://github.com/StevenBlack/hosts/releases)
-[![license](https://img.shields.io/github/license/StevenBlack/hosts.svg)](https://github.com/StevenBlack/hosts/blob/master/license.txt)
-[![repo size](https://img.shields.io/github/repo-size/StevenBlack/hosts.svg)](https://github.com/StevenBlack/hosts)
-[![contributors](https://img.shields.io/github/contributors/StevenBlack/hosts.svg)](https://github.com/StevenBlack/hosts/graphs/contributors)
-[![Build Status](https://travis-ci.org/StevenBlack/hosts.svg?branch=master)](https://travis-ci.org/StevenBlack/hosts)
+[![latest release](https://img.shields.io/github/release/Narehood/hosts.svg)](https://github.com/Narehood/hosts/releases)
+[![license](https://img.shields.io/github/license/Narehood/hosts.svg)](https://github.com/Narehood/hosts/blob/master/license.txt)
+[![repo size](https://img.shields.io/github/repo-size/Narehood/hosts.svg)](https://github.com/Narehood/hosts)
+[![contributors](https://img.shields.io/github/contributors/Narehood/hosts.svg)](https://github.com/Narehood/hosts/graphs/contributors)
+[![Build Status](https://travis-ci.org/Narehood/hosts.svg?branch=master)](https://travis-ci.org/Narehood/hosts)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/python/black)
-[![commits since last release](https://img.shields.io/github/commits-since/StevenBlack/hosts/latest.svg)](https://github.com/StevenBlack/hosts/commits/master)
-[![last commit](https://img.shields.io/github/last-commit/StevenBlack/hosts.svg)](https://github.com/StevenBlack/hosts/commits/master)
-[![commit activity](https://img.shields.io/github/commit-activity/y/StevenBlack/hosts.svg)](https://github.com/StevenBlack/hosts/commits/master)
+[![commits since last release](https://img.shields.io/github/commits-since/Narehood/hosts/latest.svg)](https://github.com/Narehood/hosts/commits/master)
+[![last commit](https://img.shields.io/github/last-commit/Narehood/hosts.svg)](https://github.com/Narehood/hosts/commits/master)
+[![commit activity](https://img.shields.io/github/commit-activity/y/Narehood/hosts.svg)](https://github.com/Narehood/hosts/commits/master)
 
 # Unified hosts file with base extensions
 
@@ -20,13 +20,13 @@ This repository consolidates several reputable `hosts` files, and merges them
 into a unified hosts file with duplicates removed.  A variety of tailored hosts files are provided.
 
 * Last updated: **January 14 2020**.
-* Here's the [raw hosts file with base extensions](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts) containing 51,192 entries.
+* Here's the [raw hosts file with base extensions](https://raw.githubusercontent.com/Narehood/hosts/master/hosts) containing 51,192 entries.
 * Logo by [@Tobaloidee](https://github.com/Tobaloidee).
 
 
 ### List of all hosts file variants
 
-This repository offers [15 different host file variants](https://github.com/StevenBlack/hosts/tree/master/alternates), in addition to the base variant.
+This repository offers [15 different host file variants](https://github.com/Narehood/hosts/tree/master/alternates), in addition to the base variant.
 
 The **Non GitHub mirror** is the link to use for some hosts file managers like
 [Hostsman for Windows](http://www.abelhadigital.com/hostsman) that don't work
@@ -34,22 +34,22 @@ with Github download links.
 
 Host file recipe | Readme | Raw hosts | Unique domains | Non Github mirror
 ---------------- |:------:|:---------:|:--------------:|:-------------:
-Unified hosts = **(adware + malware)** | [Readme](https://github.com/StevenBlack/hosts/blob/master/readme.md) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts) | 51,192 | [link](http://sbc.io/hosts/hosts)
-Unified hosts **+ fakenews** | [Readme](https://github.com/StevenBlack/hosts/blob/master/alternates/fakenews/readme.md) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews/hosts) | 52,134 | [link](http://sbc.io/hosts/alternates/fakenews/hosts)
-Unified hosts **+ gambling** | [Readme](https://github.com/StevenBlack/hosts/blob/master/alternates/gambling/readme.md) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling/hosts) | 53,511 | [link](http://sbc.io/hosts/alternates/gambling/hosts)
-Unified hosts **+ porn** | [Readme](https://github.com/StevenBlack/hosts/blob/master/alternates/porn/readme.md) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts) | 66,923 | [link](http://sbc.io/hosts/alternates/porn/hosts)
-Unified hosts **+ social** | [Readme](https://github.com/StevenBlack/hosts/blob/master/alternates/social/readme.md) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/social/hosts) | 53,660 | [link](http://sbc.io/hosts/alternates/social/hosts)
-Unified hosts **+ fakenews + gambling** | [Readme](https://github.com/StevenBlack/hosts/blob/master/alternates/fakenews-gambling/readme.md) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling/hosts) | 54,453 | [link](http://sbc.io/hosts/alternates/fakenews-gambling/hosts)
-Unified hosts **+ fakenews + porn** | [Readme](https://github.com/StevenBlack/hosts/blob/master/alternates/fakenews-porn/readme.md) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-porn/hosts) | 67,865 | [link](http://sbc.io/hosts/alternates/fakenews-porn/hosts)
-Unified hosts **+ fakenews + social** | [Readme](https://github.com/StevenBlack/hosts/blob/master/alternates/fakenews-social/readme.md) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-social/hosts) | 54,602 | [link](http://sbc.io/hosts/alternates/fakenews-social/hosts)
-Unified hosts **+ gambling + porn** | [Readme](https://github.com/StevenBlack/hosts/blob/master/alternates/gambling-porn/readme.md) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-porn/hosts) | 69,242 | [link](http://sbc.io/hosts/alternates/gambling-porn/hosts)
-Unified hosts **+ gambling + social** | [Readme](https://github.com/StevenBlack/hosts/blob/master/alternates/gambling-social/readme.md) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-social/hosts) | 55,979 | [link](http://sbc.io/hosts/alternates/gambling-social/hosts)
-Unified hosts **+ porn + social** | [Readme](https://github.com/StevenBlack/hosts/blob/master/alternates/porn-social/readme.md) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn-social/hosts) | 69,390 | [link](http://sbc.io/hosts/alternates/porn-social/hosts)
-Unified hosts **+ fakenews + gambling + porn** | [Readme](https://github.com/StevenBlack/hosts/blob/master/alternates/fakenews-gambling-porn/readme.md) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn/hosts) | 70,184 | [link](http://sbc.io/hosts/alternates/fakenews-gambling-porn/hosts)
-Unified hosts **+ fakenews + gambling + social** | [Readme](https://github.com/StevenBlack/hosts/blob/master/alternates/fakenews-gambling-social/readme.md) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-social/hosts) | 56,921 | [link](http://sbc.io/hosts/alternates/fakenews-gambling-social/hosts)
-Unified hosts **+ fakenews + porn + social** | [Readme](https://github.com/StevenBlack/hosts/blob/master/alternates/fakenews-porn-social/readme.md) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-porn-social/hosts) | 70,332 | [link](http://sbc.io/hosts/alternates/fakenews-porn-social/hosts)
-Unified hosts **+ gambling + porn + social** | [Readme](https://github.com/StevenBlack/hosts/blob/master/alternates/gambling-porn-social/readme.md) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-porn-social/hosts) | 71,709 | [link](http://sbc.io/hosts/alternates/gambling-porn-social/hosts)
-Unified hosts **+ fakenews + gambling + porn + social** | [Readme](https://github.com/StevenBlack/hosts/blob/master/alternates/fakenews-gambling-porn-social/readme.md) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn-social/hosts) | 72,651 | [link](http://sbc.io/hosts/alternates/fakenews-gambling-porn-social/hosts)
+Unified hosts = **(adware + malware)** | [Readme](https://github.com/Narehood/hosts/blob/master/readme.md) | [link](https://raw.githubusercontent.com/Narehood/hosts/master/hosts) | 51,192 | [link](http://sbc.io/hosts/hosts)
+Unified hosts **+ fakenews** | [Readme](https://github.com/Narehood/hosts/blob/master/alternates/fakenews/readme.md) | [link](https://raw.githubusercontent.com/Narehood/hosts/master/alternates/fakenews/hosts) | 52,134 | [link](http://sbc.io/hosts/alternates/fakenews/hosts)
+Unified hosts **+ gambling** | [Readme](https://github.com/Narehood/hosts/blob/master/alternates/gambling/readme.md) | [link](https://raw.githubusercontent.com/Narehood/hosts/master/alternates/gambling/hosts) | 53,511 | [link](http://sbc.io/hosts/alternates/gambling/hosts)
+Unified hosts **+ porn** | [Readme](https://github.com/Narehood/hosts/blob/master/alternates/porn/readme.md) | [link](https://raw.githubusercontent.com/Narehood/hosts/master/alternates/porn/hosts) | 66,923 | [link](http://sbc.io/hosts/alternates/porn/hosts)
+Unified hosts **+ social** | [Readme](https://github.com/Narehood/hosts/blob/master/alternates/social/readme.md) | [link](https://raw.githubusercontent.com/Narehood/hosts/master/alternates/social/hosts) | 53,660 | [link](http://sbc.io/hosts/alternates/social/hosts)
+Unified hosts **+ fakenews + gambling** | [Readme](https://github.com/Narehood/hosts/blob/master/alternates/fakenews-gambling/readme.md) | [link](https://raw.githubusercontent.com/Narehood/hosts/master/alternates/fakenews-gambling/hosts) | 54,453 | [link](http://sbc.io/hosts/alternates/fakenews-gambling/hosts)
+Unified hosts **+ fakenews + porn** | [Readme](https://github.com/Narehood/hosts/blob/master/alternates/fakenews-porn/readme.md) | [link](https://raw.githubusercontent.com/Narehood/hosts/master/alternates/fakenews-porn/hosts) | 67,865 | [link](http://sbc.io/hosts/alternates/fakenews-porn/hosts)
+Unified hosts **+ fakenews + social** | [Readme](https://github.com/Narehood/hosts/blob/master/alternates/fakenews-social/readme.md) | [link](https://raw.githubusercontent.com/Narehood/hosts/master/alternates/fakenews-social/hosts) | 54,602 | [link](http://sbc.io/hosts/alternates/fakenews-social/hosts)
+Unified hosts **+ gambling + porn** | [Readme](https://github.com/Narehood/hosts/blob/master/alternates/gambling-porn/readme.md) | [link](https://raw.githubusercontent.com/Narehood/hosts/master/alternates/gambling-porn/hosts) | 69,242 | [link](http://sbc.io/hosts/alternates/gambling-porn/hosts)
+Unified hosts **+ gambling + social** | [Readme](https://github.com/Narehood/hosts/blob/master/alternates/gambling-social/readme.md) | [link](https://raw.githubusercontent.com/Narehood/hosts/master/alternates/gambling-social/hosts) | 55,979 | [link](http://sbc.io/hosts/alternates/gambling-social/hosts)
+Unified hosts **+ porn + social** | [Readme](https://github.com/Narehood/hosts/blob/master/alternates/porn-social/readme.md) | [link](https://raw.githubusercontent.com/Narehood/hosts/master/alternates/porn-social/hosts) | 69,390 | [link](http://sbc.io/hosts/alternates/porn-social/hosts)
+Unified hosts **+ fakenews + gambling + porn** | [Readme](https://github.com/Narehood/hosts/blob/master/alternates/fakenews-gambling-porn/readme.md) | [link](https://raw.githubusercontent.com/Narehood/hosts/master/alternates/fakenews-gambling-porn/hosts) | 70,184 | [link](http://sbc.io/hosts/alternates/fakenews-gambling-porn/hosts)
+Unified hosts **+ fakenews + gambling + social** | [Readme](https://github.com/Narehood/hosts/blob/master/alternates/fakenews-gambling-social/readme.md) | [link](https://raw.githubusercontent.com/Narehood/hosts/master/alternates/fakenews-gambling-social/hosts) | 56,921 | [link](http://sbc.io/hosts/alternates/fakenews-gambling-social/hosts)
+Unified hosts **+ fakenews + porn + social** | [Readme](https://github.com/Narehood/hosts/blob/master/alternates/fakenews-porn-social/readme.md) | [link](https://raw.githubusercontent.com/Narehood/hosts/master/alternates/fakenews-porn-social/hosts) | 70,332 | [link](http://sbc.io/hosts/alternates/fakenews-porn-social/hosts)
+Unified hosts **+ gambling + porn + social** | [Readme](https://github.com/Narehood/hosts/blob/master/alternates/gambling-porn-social/readme.md) | [link](https://raw.githubusercontent.com/Narehood/hosts/master/alternates/gambling-porn-social/hosts) | 71,709 | [link](http://sbc.io/hosts/alternates/gambling-porn-social/hosts)
+Unified hosts **+ fakenews + gambling + porn + social** | [Readme](https://github.com/Narehood/hosts/blob/master/alternates/fakenews-gambling-porn-social/readme.md) | [link](https://raw.githubusercontent.com/Narehood/hosts/master/alternates/fakenews-gambling-porn-social/hosts) | 72,651 | [link](http://sbc.io/hosts/alternates/fakenews-gambling-porn-social/hosts)
 
 
 **Expectation**: These unified hosts files should serve all devices, regardless
@@ -62,7 +62,7 @@ included:
 
 Host file source | Description | Home page | Raw hosts | Update frequency | License | Issues
 -----------------|-------------|:---------:|:---------:|:----------------:|:-------:|:------:
-Steven Black's ad-hoc list | Additional sketch domains as I come across them. |[link](https://github.com/StevenBlack/hosts/blob/master/data/StevenBlack/hosts) | [raw](https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts) | occasionally | MIT  | [issues](https://github.com/StevenBlack/hosts/issues) 
+Steven Black's ad-hoc list | Additional sketch domains as I come across them. |[link](https://github.com/Narehood/hosts/blob/master/data/Narehood/hosts) | [raw](https://raw.githubusercontent.com/Narehood/hosts/master/data/Narehood/hosts) | occasionally | MIT  | [issues](https://github.com/Narehood/hosts/issues) 
 Malware Domain List | Malware Domain List is a non-commercial community project. |[link](https://www.malwaredomainlist.com/) | [raw](https://www.malwaredomainlist.com/hostslist/hosts.txt) | weekly | 'can be used for free by anyone'  | [issues](https://www.malwaredomainlist.com/contact.php) 
 add.Dead | Dead sites based on [hostsfile.org](http://www.hostsfile.org/hosts.html) content. |[link](https://github.com/FadeMind/hosts.extras) | [raw](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Dead/hosts) | occasionally | GPLv3+  | [issues](https://github.com/FadeMind/hosts.extras/issues) 
 hostsVN | Hosts block ads of Vietnamese |[link](https://github.com/bigdargon/hostsVN) | [raw](https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hosts-VN) | occasionally | MIT  | [issues](https://github.com/bigdargon/hostsVN/issues) 
@@ -83,9 +83,9 @@ Tiuxo hostlist - ads | Categorized hosts files for DNS based content blocking |[
 ## Extensions
 The unified hosts file is optionally extensible.  Extensions are used to include domains by category.  Currently we offer the following categories: `fakenews`, `social`, `gambling`, and `porn`.
 
-Extensions are optional, and can be combined in various ways wth the base hosts file.  The combined products are stored in the [`alternates`](https://github.com/StevenBlack/hosts/tree/master/alternates) folder.
+Extensions are optional, and can be combined in various ways wth the base hosts file.  The combined products are stored in the [`alternates`](https://github.com/Narehood/hosts/tree/master/alternates) folder.
 
-Data for extensions is stored in the [`extensions`](https://github.com/StevenBlack/hosts/tree/master/extensions) folder. You manage extensions by curating this
+Data for extensions is stored in the [`extensions`](https://github.com/Narehood/hosts/tree/master/extensions) folder. You manage extensions by curating this
 folder tree, where you will find the data for `fakenews`, `social`, `gambling`, and `porn` extension data that we maintain and provide for you.
 
 ## Generate your own unified hosts file
@@ -207,12 +207,12 @@ If you discover sketchy domains you feel should be included here, here are some 
 
 ### Option 1: contact one of our hosts sources
 
-The best way to get new domains included is to submit an issue to any of the data providers whose home pages are [listed here](https://github.com/StevenBlack/hosts#sources-of-hosts-data-unified-in-this-variant). This is best because once you submit new domains, they will be curated and updated by the dedicated folks who maintain these sources.
+The best way to get new domains included is to submit an issue to any of the data providers whose home pages are [listed here](https://github.com/Narehood/hosts#sources-of-hosts-data-unified-in-this-variant). This is best because once you submit new domains, they will be curated and updated by the dedicated folks who maintain these sources.
 
 
 ### Option 2: add your domains to Steven Black's personal data file
 
-Fork this hosts this repo and add your links to [https://github.com/StevenBlack/hosts/blob/master/data/StevenBlack/hosts](https://github.com/StevenBlack/hosts/blob/master/data/StevenBlack/hosts).
+Fork this hosts this repo and add your links to [https://github.com/Narehood/hosts/blob/master/data/Narehood/hosts](https://github.com/Narehood/hosts/blob/master/data/Narehood/hosts).
 
 Then, submit a pull request.
 
@@ -220,7 +220,7 @@ Then, submit a pull request.
 
 ### Option 3: create your own hosts list as a repo on Github
 
-If you're able to curate your own collection of sketchy domains, then curate your own hosts list.  Then signal the existence of your repo as [a new issue](https://github.com/StevenBlack/hosts/issues) and we may include your new repo into the collection of sources we pull whenever we create new versions.
+If you're able to curate your own collection of sketchy domains, then curate your own hosts list.  Then signal the existence of your repo as [a new issue](https://github.com/Narehood/hosts/issues) and we may include your new repo into the collection of sources we pull whenever we create new versions.
 
 
 ## What is a hosts file?
@@ -372,9 +372,9 @@ sudo dscacheutil -flushcache;sudo killall -HUP mDNSResponder
 ## Release management
 
 This repository uses [Release-It!](https://webpro.github.io/release-it/), an excellent CLI release
-tool for Github repos and npm packages, to automate creating [releases](https://github.com/StevenBlack/hosts/releases).
-This is why the [package.json](https://github.com/StevenBlack/hosts/blob/master/package.json) and
-[.release-it.json](https://github.com/StevenBlack/hosts/blob/master/.release-it.json) files are bundled.
+tool for Github repos and npm packages, to automate creating [releases](https://github.com/Narehood/hosts/releases).
+This is why the [package.json](https://github.com/Narehood/hosts/blob/master/package.json) and
+[.release-it.json](https://github.com/Narehood/hosts/blob/master/.release-it.json) files are bundled.
 
 ## Goals of this unified hosts file
 
@@ -424,8 +424,8 @@ devices under a variety of operating systems.
 
 ## Contribute!
 
-Please read our [Contributing Guide](https://github.com/StevenBlack/hosts/blob/master/contributing.md). Among other things, this explains how we organize files and folders in this repository.
+Please read our [Contributing Guide](https://github.com/Narehood/hosts/blob/master/contributing.md). Among other things, this explains how we organize files and folders in this repository.
 
-We are always interested in discovering well-curated sources of hosts.  If you find one, please open an [issue](https://github.com/StevenBlack/hosts/issues) to draw our attention.
+We are always interested in discovering well-curated sources of hosts.  If you find one, please open an [issue](https://github.com/Narehood/hosts/issues) to draw our attention.
 
-Before you create or respond to any issue, please read our [code of conduct](https://github.com/StevenBlack/hosts/blob/master/code_of_conduct.md).
+Before you create or respond to any issue, please read our [code of conduct](https://github.com/Narehood/hosts/blob/master/code_of_conduct.md).
